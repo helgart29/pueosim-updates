@@ -1,3 +1,5 @@
+##need PyGDSM in order to run this file
+
 import os
 import numpy as np
 import healpy as hp
